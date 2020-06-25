@@ -32,5 +32,3 @@ total_amount()
 deposit_withdrw()
 
 
-'43527510ca1acd4a2f7d65e284b44f43'
-"http://api.openweathermap.org/data/2.5/weather?"
